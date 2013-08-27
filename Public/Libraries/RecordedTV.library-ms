@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryDescription xmlns="http://schemas.microsoft.com/windows/2009/library">
+  <name>@shell32.dll,-34615</name>
+  <ownerSID>S-1-5-18</ownerSID>
+  <version>2</version>
+  <isLibraryPinned>true</isLibraryPinned>
+  <iconReference>imageres.dll,-1008</iconReference>
+  <templateInfo>
+    <folderType>{5fa96407-7e77-483c-ac93-691d05850de8}</folderType>
+  </templateInfo>
+  <searchConnectorDescriptionList>
+    <searchConnectorDescription publisher="Microsoft" product="Windows">
+      <description>@shell32.dll,-34617</description>
+      <isDefaultSaveLocation>true</isDefaultSaveLocation>
+      <isDefaultNonOwnerSaveLocation>true</isDefaultNonOwnerSaveLocation>
+      <simpleLocation>
+        <url>C:\Users\Public\Recorded TV</url>
+        <serialized>MBAAAEAFCAAAAAAAADAAAAAAAY0gAAQBRAAAAY3P1b1bEocAowrvj9GBKHgd/UvVvRgyBAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA8bAUAwHQB+TQDi66kGEiiNCAsCMw0ZGA8yQ6wFAAAAAAAAAAAAAAAAAAAAAAAAA0BQMAAAAAAQCD56cRAQVzVmczBAYAgAAEAw7+6uOFqRCD56cqAAAA8cAAAAAAEAAAAAAAAAAAAgNAAAAAAQVAMHAlBgcAMHAAAAQAMHAoBQZAwGAsBwMAIDAuAAZAwGAsBALA0CAyAQMAgDAxAwMAAAAUAAeAEDAAAAAAAxQriWEAAVdixWajBAAiBACAQAAv7r76UoGQM0qopCAAAwYCAAAAAQAAAAAAAAAAAAA4AAAAAAAQBQdAIGAsBQaAMGAAAAQAMHAoBQZAwGAsBwMAIDAuAAZAwGAsBALA0CAyAQMAgDAxAgNAAAAWAApAEDAAAAAA4uOqTVEAIVRD9kUE5XMAAAjAgAAEAw7+6uOqTl76QPVqAAAA0mAAAAAAEAAAAAAAAAAAAgQAAAAAAgUAUGAjBwbAIHAkBQZAQGAgAAVAYFAAAAQAMEA6AAXAcFApBgbAQGAvBwdAMHAcBQZAgEAvBQbAUGAcBQZAgGAlBAcAcGAyBQZAMHAuAAZAwGAsBALA0CAzAAMAQDAAAAGAAAAKBAAAwBAAAQAAAAAcAAAA0CAAAAAAAAAJBAAAEBAAAwAAAAAAFHY+BBAAAAADpDXVNXZyNHXQVnYsl2YcJVZj9mckVGZgQlVAAAHAAAALAAAgKqdf/tKIPWTQqmVExaRzVYGBAAAZCAAAkAAAAajAAAAxMFUTJuiYZEvMhzQ7y/ETaCmt5ccAAAAEAAAAAwHAAAAvAAAAMFAtAQMA0CA1AQLAIDAxAQLAEDAyAQMAQDA0AANAADAzAwMAkDAtAQMAUDA4AAMAgDAxAAOAgDA5AQMA0CA4AQNAQDAyAANAUDAzAQOAgDAtAwNAQDAwAgMAQDAAAAAAAAAAAAAAAAAgBAAAMAAAAKWAAAAAAAAAcWLkFDMy0SM1AAAAAAAAAgRAGU3eO9ALxraK/BZ/JM/LT/950mBjHxsJzV+dX+U3ZEgB1tnTPwS8qmyfQ2fCz/y0ffOtZw4RMbyclf3lP1dAAAAAA</serialized>
+      </simpleLocation>
+    </searchConnectorDescription>
+  </searchConnectorDescriptionList>
+</libraryDescription>
